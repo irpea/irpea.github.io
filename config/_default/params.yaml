@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Portfolio
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    twitter: 'Replaity'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
